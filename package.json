@@ -1,0 +1,39 @@
+{
+  "name": "react-tiny-app",
+  "version": "1.0.0",
+  "description": "Simple react application",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "json-server --watch db.json --port 3030",
+    "test": "mocha /tests --recurcive",
+    "build": "webpack ",
+    "release": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernium/react-tiny-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "a.kazmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernium/react-tiny-app/issues"
+  },
+  "homepage": "https://github.com/ernium/react-tiny-app#readme",
+  "devDependencies": {
+    "json-server": "^0.9.6",
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-router": "^4.1.1",
+    "redux": "^3.6.0",
+    "redux-saga": "^0.14.6"
+  }
+}

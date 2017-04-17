@@ -1,0 +1,13 @@
+{
+  "Department": [
+    {"id": 70001, "name": "Transport"},
+    {"id": 70002, "name": "Health"}
+  ],
+  "Employee": [
+    {"id": 80002, "departmentId": 70001, "firstName": "John", "lastName": "Doe"},
+    {"id": 80003, "departmentId": 70001, "firstName": "Mark", "lastName": "Kreig"},
+    {"id": 80004, "departmentId": 70001, "firstName": "Lisa", "lastName": "Oliver"},
+    {"id": 80005, "departmentId": 70002, "firstName": "Maria", "lastName": "Kovago"},
+    {"id": 80006, "departmentId": 70002, "firstName": "Emmy", "lastName": "Dwane"}
+  ]
+}
