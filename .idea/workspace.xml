@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8ab225d-bdad-4a80-9caa-8d6723557e6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/actions/department-actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/api/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/constants/action.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/helpers/action.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/helpers/reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/models/department.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/models/employee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/reducers/departments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/src/reducers/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/old/.babelrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/old/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/old/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/old/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/db.json" afterPath="$PROJECT_DIR$/old/db.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/old/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/old/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/old/webpack.config.js" />
-    </list>
+    <list default="true" id="a8ab225d-bdad-4a80-9caa-8d6723557e6f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -375,12 +355,12 @@
       <workItem from="1492723616615" duration="17000" />
       <workItem from="1492723649324" duration="6227000" />
       <workItem from="1494152229765" duration="1366000" />
-      <workItem from="1494263937536" duration="1618000" />
+      <workItem from="1494263937536" duration="1985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18069000" />
+    <option name="totallyTimeSpent" value="18436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1179" height="1410" extended-state="5" />
