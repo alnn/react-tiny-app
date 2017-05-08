@@ -10,6 +10,7 @@
     "start": "json-server --watch db.json --port 3030",
     "test": "mocha /tests --recurcive",
     "build": "./node_modules/.bin/webpack --config webpack.config.js",
+    "watch": "./node_modules/.bin/webpack --config webpack.config.js --progress --colors --watch",
     "release": ""
   },
   "repository": {
@@ -39,6 +40,8 @@
   },
   "dependencies": {
     "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
     "react-router": "^4.1.1",
     "redux": "^3.6.0",
     "redux-saga": "^0.14.6"
