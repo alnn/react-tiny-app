@@ -1,3 +1,13 @@
-## License
+## 1. Run API
 
-This project is licensed under the MIT license
+```bash
+$ yarn start:api
+```
+
+## 2. Start
+
+```bash
+$ yarn start
+```
+
+## 3. Go to http://localhost:3000 after all started
