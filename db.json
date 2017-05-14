@@ -1,0 +1,52 @@
+{
+  "department": [
+    {
+      "id": 70001,
+      "name": "Transport"
+    },
+    {
+      "id": 70002,
+      "name": "Health"
+    },
+    {
+      "id": 70003,
+      "name": "Commerce"
+    },
+    {
+      "id": 70004,
+      "name": "Energy"
+    }
+  ],
+  "employee": [
+    {
+      "id": 80002,
+      "department": 70001,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 80003,
+      "department": 70001,
+      "firstName": "Mark",
+      "lastName": "Kreig"
+    },
+    {
+      "id": 80004,
+      "department": "70002",
+      "firstName": "Kate",
+      "lastName": "Oliver"
+    },
+    {
+      "id": 80005,
+      "department": "70003",
+      "firstName": "Maria",
+      "lastName": "Johnson"
+    },
+    {
+      "id": 80006,
+      "department": "70001",
+      "firstName": "Emmy",
+      "lastName": "Dwane"
+    }
+  ]
+}
