@@ -1,13 +1,16 @@
-## 1. Run API
+## 1. Install dependencies
+```bash
+$ yarn
+```
 
+## 2. Run API
 ```bash
 $ yarn start:api
 ```
 
-## 2. Start
-
+## 3. Start
 ```bash
 $ yarn start
 ```
 
-## 3. Go to http://localhost:3000 after all started
+## 4. Go to http://localhost:3000 after all started
